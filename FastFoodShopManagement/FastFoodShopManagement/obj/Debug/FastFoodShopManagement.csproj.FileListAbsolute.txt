@@ -1,0 +1,28 @@
+C:\Users\BOU-0\source\repos\FastFoodShopManagement\FastFoodShopManagement\bin\Debug\FastFoodShopManagement.exe.config
+C:\Users\BOU-0\source\repos\FastFoodShopManagement\FastFoodShopManagement\bin\Debug\FastFoodShopManagement.exe
+C:\Users\BOU-0\source\repos\FastFoodShopManagement\FastFoodShopManagement\bin\Debug\FastFoodShopManagement.pdb
+C:\Users\BOU-0\source\repos\FastFoodShopManagement\FastFoodShopManagement\obj\Debug\FastFoodShopManagement.csprojAssemblyReference.cache
+C:\Users\BOU-0\source\repos\FastFoodShopManagement\FastFoodShopManagement\obj\Debug\FastFoodShopManagement.Properties.Resources.resources
+C:\Users\BOU-0\source\repos\FastFoodShopManagement\FastFoodShopManagement\obj\Debug\FastFoodShopManagement.ShopHome.resources
+C:\Users\BOU-0\source\repos\FastFoodShopManagement\FastFoodShopManagement\obj\Debug\FastFoodShopManagement.csproj.GenerateResource.cache
+C:\Users\BOU-0\source\repos\FastFoodShopManagement\FastFoodShopManagement\obj\Debug\FastFoodShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\BOU-0\source\repos\FastFoodShopManagement\FastFoodShopManagement\obj\Debug\FastFoodShopManagement.exe
+C:\Users\BOU-0\source\repos\FastFoodShopManagement\FastFoodShopManagement\obj\Debug\FastFoodShopManagement.pdb
+G:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\FastFoodShopManagement\FastFoodShopManagement\bin\Debug\FastFoodShopManagement.exe.config
+G:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\FastFoodShopManagement\FastFoodShopManagement\bin\Debug\FastFoodShopManagement.exe
+G:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\FastFoodShopManagement\FastFoodShopManagement\bin\Debug\FastFoodShopManagement.pdb
+G:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\FastFoodShopManagement\FastFoodShopManagement\obj\Debug\FastFoodShopManagement.csprojAssemblyReference.cache
+G:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\FastFoodShopManagement\FastFoodShopManagement\obj\Debug\FastFoodShopManagement.Properties.Resources.resources
+G:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\FastFoodShopManagement\FastFoodShopManagement\obj\Debug\FastFoodShopManagement.ShopHome.resources
+G:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\FastFoodShopManagement\FastFoodShopManagement\obj\Debug\FastFoodShopManagement.csproj.GenerateResource.cache
+G:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\FastFoodShopManagement\FastFoodShopManagement\obj\Debug\FastFoodShopManagement.exe
+G:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\FastFoodShopManagement\FastFoodShopManagement\obj\Debug\FastFoodShopManagement.pdb
+H:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\FastFoodShopManagement\FastFoodShopManagement\bin\Debug\FastFoodShopManagement.exe.config
+H:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\FastFoodShopManagement\FastFoodShopManagement\bin\Debug\FastFoodShopManagement.exe
+H:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\FastFoodShopManagement\FastFoodShopManagement\bin\Debug\FastFoodShopManagement.pdb
+H:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\FastFoodShopManagement\FastFoodShopManagement\obj\Debug\FastFoodShopManagement.csprojAssemblyReference.cache
+H:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\FastFoodShopManagement\FastFoodShopManagement\obj\Debug\FastFoodShopManagement.Properties.Resources.resources
+H:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\FastFoodShopManagement\FastFoodShopManagement\obj\Debug\FastFoodShopManagement.ShopHome.resources
+H:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\FastFoodShopManagement\FastFoodShopManagement\obj\Debug\FastFoodShopManagement.csproj.GenerateResource.cache
+H:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\FastFoodShopManagement\FastFoodShopManagement\obj\Debug\FastFoodShopManagement.exe
+H:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\FastFoodShopManagement\FastFoodShopManagement\obj\Debug\FastFoodShopManagement.pdb
