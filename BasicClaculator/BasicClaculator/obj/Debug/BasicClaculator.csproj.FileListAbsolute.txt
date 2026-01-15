@@ -1,0 +1,19 @@
+C:\Users\MasterPC\source\repos\BasicClaculator\BasicClaculator\bin\Debug\BasicClaculator.exe.config
+C:\Users\MasterPC\source\repos\BasicClaculator\BasicClaculator\bin\Debug\BasicClaculator.exe
+C:\Users\MasterPC\source\repos\BasicClaculator\BasicClaculator\bin\Debug\BasicClaculator.pdb
+C:\Users\MasterPC\source\repos\BasicClaculator\BasicClaculator\obj\Debug\BasicClaculator.csprojAssemblyReference.cache
+C:\Users\MasterPC\source\repos\BasicClaculator\BasicClaculator\obj\Debug\BasicClaculator.Properties.Resources.resources
+C:\Users\MasterPC\source\repos\BasicClaculator\BasicClaculator\obj\Debug\BasicClaculator.csproj.GenerateResource.cache
+C:\Users\MasterPC\source\repos\BasicClaculator\BasicClaculator\obj\Debug\BasicClaculator.csproj.CoreCompileInputs.cache
+C:\Users\MasterPC\source\repos\BasicClaculator\BasicClaculator\obj\Debug\BasicClaculator.exe
+C:\Users\MasterPC\source\repos\BasicClaculator\BasicClaculator\obj\Debug\BasicClaculator.pdb
+C:\Users\MasterPC\source\repos\BasicClaculator\BasicClaculator\obj\Debug\BasicClaculator.Form1.resources
+G:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\BasicClaculator\BasicClaculator\bin\Debug\BasicClaculator.exe.config
+G:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\BasicClaculator\BasicClaculator\bin\Debug\BasicClaculator.exe
+G:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\BasicClaculator\BasicClaculator\bin\Debug\BasicClaculator.pdb
+G:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\BasicClaculator\BasicClaculator\obj\Debug\BasicClaculator.csprojAssemblyReference.cache
+G:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\BasicClaculator\BasicClaculator\obj\Debug\BasicClaculator.Form1.resources
+G:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\BasicClaculator\BasicClaculator\obj\Debug\BasicClaculator.Properties.Resources.resources
+G:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\BasicClaculator\BasicClaculator\obj\Debug\BasicClaculator.csproj.GenerateResource.cache
+G:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\BasicClaculator\BasicClaculator\obj\Debug\BasicClaculator.exe
+G:\3rd Year 1st Semester\Object Oriented Programming Lab-II\Class Program\BasicClaculator\BasicClaculator\obj\Debug\BasicClaculator.pdb
